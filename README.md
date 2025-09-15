@@ -1,6 +1,6 @@
 # class-quiz-database-groupx
 “Group x database class quiz – SQL scripts, report, and screenshots.”
-# Class Quiz Database Project (Group 3)
+# Class Quiz Database Project (Group x)
 
 This repository contains our work for the database class quiz.  
 It includes SQL scripts, screenshots of query outputs, and our final report document.
